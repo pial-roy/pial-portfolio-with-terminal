@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pial-portfolio-with-terminal/static/css/main.126ce0b3.css",
+    "main.js": "/pial-portfolio-with-terminal/static/js/main.9ae07f1e.js",
+    "static/js/453.570e33f5.chunk.js": "/pial-portfolio-with-terminal/static/js/453.570e33f5.chunk.js",
+    "static/media/profile.jpg": "/pial-portfolio-with-terminal/static/media/profile.e8cfc70ca40d9cdfd9fa.jpg",
+    "index.html": "/pial-portfolio-with-terminal/index.html",
+    "main.126ce0b3.css.map": "/pial-portfolio-with-terminal/static/css/main.126ce0b3.css.map",
+    "main.9ae07f1e.js.map": "/pial-portfolio-with-terminal/static/js/main.9ae07f1e.js.map",
+    "453.570e33f5.chunk.js.map": "/pial-portfolio-with-terminal/static/js/453.570e33f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126ce0b3.css",
+    "static/js/main.9ae07f1e.js"
+  ]
+}
